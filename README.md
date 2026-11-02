@@ -25,6 +25,22 @@ Self-learning
 
 ## Experience
 
+
+### _**CenterEnergopromstroy, Golang-developer, Deputy Head of the Development Department**_
+
+**04/2026 - now**
+- Lead a team of 5, make architectural and infrastructure decisions, and engage with business stakeholders
+- Developed an internal service for centralized database backup collection, including automated restore verification
+
+### _**CenterEnergopromstroy, Golang-developer**_
+
+**12/2024 - 04/2026**
+
+I was responsible for the development of the backend component of the company's internal platform. This involved supporting and enhancing existing solutions, including:
+- Infrastructure support
+- Enhancement of existing codebase
+- Testing and debugging
+
 ### _**Blagservis, System Administrator**_
 
 **2021 - 2023**
@@ -33,14 +49,7 @@ Was engaged in the organization of enterprise IT systems, networks, equipment, a
 
 ---
 
-### _**Energopromsbyt, Golang-developer**_
 
-**2024 - _now_**
-
-I am responsible for the development of the backend component of the company's internal platform. This involves supporting and enhancing existing solutions, including:
-- Infrastructure support
-- Enhancement of existing codebase
-- Testing and debugging
 
 
 ## Education
